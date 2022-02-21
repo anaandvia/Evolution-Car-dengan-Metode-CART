@@ -10,4 +10,4 @@ IF 3A Regular Pagi </br>
 </br>
 </br> 
 <strong> LINK VIDEO PRESENTASI DATA MINING </strong></br>
-http://bit.ly/TB-DM_008_011_018
+
